@@ -4,11 +4,13 @@ import { ItemListContainer } from './components/ItemListContainer'
 import './css/main.css'
 
 function App() {
+
+  const saludo = "Hola, mundo!";
  
   return (
     <>
       <Header />
-      <ItemListContainer />
+      <ItemListContainer saludo={saludo} prueba="prueba" />
     </>
   )
 }

@@ -1,0 +1,63 @@
+[
+    {
+      "nombre": "Camiseta Básica",
+      "precio": 19.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Camiseta de algodón en varios colores, ideal para uso diario."
+    },
+    {
+      "nombre": "Auriculares Bluetooth",
+      "precio": 49.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Auriculares inalámbricos con cancelación de ruido y sonido de alta calidad."
+    },
+    {
+      "nombre": "Mochila Impermeable",
+      "precio": 29.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Mochila resistente al agua, perfecta para viajes y uso escolar."
+    },
+    {
+      "nombre": "Lámpara LED Escritorio",
+      "precio": 15.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Lámpara ajustable con modos de luz blanca y cálida, ideal para estudiar."
+    },
+    {
+      "nombre": "Reloj Inteligente Deportivo",
+      "precio": 89.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Reloj inteligente con monitoreo de actividad física y frecuencia cardíaca."
+    },
+    {
+      "nombre": "Zapatos Deportivos",
+      "precio": 59.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Zapatos ligeros y cómodos, diseñados para correr y actividades deportivas."
+    },
+    {
+      "nombre": "Termo de Acero Inoxidable",
+      "precio": 24.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Termo de alta calidad, ideal para mantener bebidas calientes o frías."
+    },
+    {
+      "nombre": "Juguete Interactivo para Mascotas",
+      "precio": 12.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Pelota interactiva para perros y gatos, diseñada para horas de diversión."
+    },
+    {
+      "nombre": "Set de Pinceles para Pintura",
+      "precio": 14.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Pinceles variados, ideales para proyectos artísticos en diferentes técnicas."
+    },
+    {
+      "nombre": "Cargador Portátil 10000mAh",
+      "precio": 39.99,
+      "imagen": "https://placeholder.pics/svg/150",
+      "descripción": "Batería externa con carga rápida y dos puertos USB para dispositivos móviles."
+    }
+  ]
+  
